@@ -34,3 +34,4 @@ CREATE TABLE characters (
   species TEXT,
   motto TEXT,
   author_id INTEGER
+  );
